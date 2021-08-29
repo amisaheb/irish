@@ -145,7 +145,7 @@ footer{
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                   <div class="navbar-nav">
-                    <a class="h nav-link active" aria-current="page" href="/irish/index.php">Sign-In</a>
+                    <a class="h nav-link active" aria-current="page" href="/irish/">Sign-In</a>
                    <div class="box">
                          
       
