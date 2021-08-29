@@ -1,0 +1,65 @@
+
+  
+      /* .bg{
+width: 99vw;
+height: 160vw;
+z-index: -1;
+position: absolute;
+opacity: .7;
+} */
+
+ /* .box3{
+align-items: center;
+}  */
+.f1{
+    margin: 4px;
+    
+    }
+    .gal{
+        margin: 1vw;
+    }
+    body{
+      background-image: url(b6.jpg);
+    }
+    
+    .h:hover{
+      background-color:rgb(4, 98, 240)
+     
+      
+    
+    
+    }
+    .gal img{
+         width: 16vw; 
+        padding: .4vw;
+        filter: grayscale(0);
+        transition: .2s;
+    
+    
+    }
+    
+    .gal img:hover{
+    filter: grayscale(0);
+    transform: scale(1.1);
+    
+    }
+      .t1{
+          font-size: larger;
+          font-weight: bold;
+          text-align: center;
+          color: black;
+    
+      } 
+
+
+      @media screen and (max-width:600px){
+   
+        .gal img{
+            width: 46vw;
+            padding: .2vw;
+            filter: grayscale(0);
+            transition: .2s;
+        
+        
+        }
+          }
